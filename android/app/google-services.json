@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447503210688",
+    "project_id": "infinity-web-7568c",
+    "storage_bucket": "infinity-web-7568c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447503210688:android:5c8de3d25b4790ed123525",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscTYHoB_WnuET2luNDMBhFik3QLuKaTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
